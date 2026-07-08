@@ -1,1 +1,1 @@
-this is new statement
+GitHub is one of the most popular platforms for hosting and collaborating on software projects. It is built on top of Git, a distributed version control system that helps developers track changes in their code. While Git manages the history of a project locally, GitHub provides a cloud-based platform where repositories can be stored, shared, and developed collaboratively
